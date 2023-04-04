@@ -65,6 +65,37 @@
     height: 800px;
     background-color:black; 
 }
+.left-area .personal-info {
+    margin-top: 40px;
+    margin-left: 5px;
+}
+
+.personal-info {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+
+   
+}
+
+.personal-info h3{
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+
+.personal-info h4{
+    padding-top: 5px;
+    font-weight: normal;
+}
+
+.personal-info li{
+    color: lightslategray;
+    font-weight: normal;
+    text-transform: capitalize;
+}
 
 .left-area .contact {
     margin-top: 40px;
@@ -139,5 +170,9 @@
     margin-top: 5%;
     font-family: 'Courier New', Courier, monospace;
     padding-left: 10px;
+}
+
+.educ-bg h2{
+    text-transform: uppercase;
 }
 
