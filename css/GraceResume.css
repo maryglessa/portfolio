@@ -26,8 +26,7 @@
     left: 80px;
     border-radius: 60%;
     box-shadow: 3px 3px 15px lightslategray;
-    transition: .5s;
-    filter:grayscale(0.2)   
+     
 }
 
 .header img:hover {
@@ -174,5 +173,21 @@
 
 .educ-bg h2{
     text-transform: uppercase;
+}
+
+.btn {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: normal;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color: lightslategrey;
+    text-transform: uppercase;
+     border-radius: 8px;
+    color: white;
+    transition: .8s;
+
 }
 

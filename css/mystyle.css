@@ -249,6 +249,10 @@ h3 {
 
 }
 
+.col2 h3 {
+    font-size: 10px;
+}
+
 .col2 a{
     color: white;
     font-weight: bold;
