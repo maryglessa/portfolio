@@ -125,6 +125,13 @@ h3 {
     height: 30px;
 }
 
+p {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777;
+    
+}
+
 .abtusimg {
     display: grid;
     width: max-content;
