@@ -65,16 +65,15 @@ html{
 .text{
     color: white;
    margin-left: 35%;
+   margin-bottom: 40px;
    
 }
 
 .text p{
     font-family: 'Courier New', Courier, monospace;
+   
 }
 
-.text h3{
-    font-family: 'Courier New', Courier, monospace;
-}
 
 .name{
     font-size: 50px;
@@ -83,13 +82,20 @@ html{
     
 }
 
+.h5 {
+    font-size: 5px;
+    font-weight: normal;
+     font-family: 'Courier New', Courier, monospace;
+     text-transform: capitalize;
+
+}
+
 .pic{
     display: block;
     margin-left:auto;
     margin-right: auto;
     width: 500px;
-    height: 450px;
-    
+    height: 500px;
 
 } 
 
