@@ -125,11 +125,11 @@ h3 {
     height: 30px;
 }
 
-p {
+.note {
     font-weight: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777;
-    
+
 }
 
 .abtusimg {
@@ -307,7 +307,6 @@ p {
 }
 
 .social1{
-    
     padding-top: 30px;
 }
 
