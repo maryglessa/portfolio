@@ -175,19 +175,3 @@
     text-transform: uppercase;
 }
 
-.btn {
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
-    font-weight: normal;
-    width: 100px;
-    padding: 10px;
-    text-decoration: none;
-    text-align: center;
-    background-color: lightslategrey;
-    text-transform: uppercase;
-     border-radius: 8px;
-    color: white;
-    transition: .8s;
-
-}
-
